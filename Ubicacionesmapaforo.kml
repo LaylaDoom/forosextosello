@@ -75,7 +75,7 @@
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <scale>0</scale>
+        <scale>1</scale>
       </LabelStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
