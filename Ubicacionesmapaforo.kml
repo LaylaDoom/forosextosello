@@ -138,7 +138,7 @@
       <name>Untitled layer</name>
       <Placemark>
         <name>Leanan Sidhe</name>
-        <description>Centro de investigación, estudio y analisis cientifico de los acontecimientos. Leanan Sidhe está ubicada en bases militares y cuenta con alta tecnología.Comandante a cargo: Bridget Zoe</description>
+        <description>Centro de investigación, estudio y analisis cientifico de los acontecimientos. Leanan Sidhe está ubicada en bases militares y cuenta con alta tecnología. Comandante a cargo: Bridget Zoe</description>
         <styleUrl>#icon-1524-9C27B0</styleUrl>
         <Point>
           <coordinates>
@@ -148,7 +148,7 @@
       </Placemark>
       <Placemark>
         <name>Galadriel</name>
-        <description>Clan que se describe como el responsable de devolverle la humanidad a los seres humanos.Gobernado por Mike Niemann</description>
+        <description>Clan que se describe como el responsable de devolverle la humanidad a los seres humanos. Gobernado por Mike Niemann</description>
         <styleUrl>#icon-1604-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -158,7 +158,7 @@
       </Placemark>
       <Placemark>
         <name>Alpha Hydra</name>
-        <description>Ubicada en plena ciudad, Alpha Hydra se describe a su misma como el clan con una gran fuerza militar.Liderado por Ulrick Van Harald</description>
+        <description>Ubicada en plena ciudad, Alpha Hydra se describe a su misma como el clan con una gran fuerza militar. Liderado por Ulrick Van Harald</description>
         <styleUrl>#icon-1547-A52714</styleUrl>
         <Point>
           <coordinates>
@@ -168,7 +168,7 @@
       </Placemark>
       <Placemark>
         <name>Hoedus II</name>
-        <description>CDATA[Ubicación desconocida.Lider Desconocido.</description>
+        <description>Ubicación desconocida. Lider: Desconocido.</description>
         <styleUrl>#icon-1774-0F9D58</styleUrl>
         <Point>
           <coordinates>
@@ -178,7 +178,7 @@
       </Placemark>
       <Placemark>
         <name>Hoedus I</name>
-        <description>Comunidad pacifista ubicada entre los bosques de  DongQianHu  destruída hace un año por un ataque Zombie.Lider: Adrian Wolf></description>
+        <description>Comunidad pacifista ubicada entre los bosques de  DongQianHu  destruída hace un año por un ataque Zombie. Lider: Adrian Wolf (muerto)</description>
         <styleUrl>#icon-1616-7CB342</styleUrl>
         <Point>
           <coordinates>
